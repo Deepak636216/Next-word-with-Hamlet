@@ -1,9 +1,8 @@
 Here’s the complete content formatted for a README file:
 
-```markdown
 # Next Word Prediction with LSTM and Early Stopping
 
-This project is a **Next Word Prediction** application built using an **LSTM** (Long Short-Term Memory) model in **TensorFlow/Keras** and deployed with **Streamlit**. The model is trained on a text corpus and can predict the next word in a given sequence of words.
+This project is a **Next Word Prediction** application built using an **LSTM** (Long Short-Term Memory) model in **TensorFlow/Keras** and deployed with **Streamlit**. The model is trained on **Shakespeare's Hamlet** text corpus and can predict the next word in a given sequence of words.
 
 ## Table of Contents
 
@@ -38,7 +37,7 @@ This project demonstrates a text generation model using an LSTM neural network t
    ```bash
    git clone https://github.com/your-username/next-word-prediction.git
    cd next-word-prediction
-   ```
+
 
 2. **Install dependencies**:
    ```bash
