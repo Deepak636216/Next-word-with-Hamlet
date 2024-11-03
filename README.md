@@ -118,8 +118,7 @@ The Streamlit app provides a simple interface to input a sequence of words and g
 ├── tokenizer.pickle         # Saved tokenizer
 └── README.md                # Project documentation
 ```
-##URL
-https://next-word-with-hamlet-cbeerybcm5acfcvkbjdaru.streamlit.app/
+## URL
+- https://next-word-with-hamlet-cbeerybcm5acfcvkbjdaru.streamlit.app/
 ```
 
-Replace placeholders such as `Deepka636216` and `Deepak M` with your actual details, and ensure all required files are in place as described in the Project Structure.
