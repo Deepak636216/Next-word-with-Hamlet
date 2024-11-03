@@ -1,4 +1,3 @@
-Here’s the complete content formatted for a README file:
 
 # Next Word Prediction with LSTM and Early Stopping
 
